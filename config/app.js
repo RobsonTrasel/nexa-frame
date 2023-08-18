@@ -1,4 +1,4 @@
-export class App {
+class App {
     constructor() {
         // Environment: Can be 'dev', 'prod', 'staging', etc.
         this.env = process.env.APP_ENV || 'dev';
@@ -165,3 +165,5 @@ export class App {
         return this.api;
     }
 }
+
+export default new App()
