@@ -1,0 +1,9 @@
+{
+  "name": "nexa-frame",
+  "version": "0.0.1",
+  "description": "NexaFrame: Um framework de alta performance inspirado na elegância do Laravel, projetado para desenvolvedores que buscam eficiência e rapidez no desenvolvimento de aplicações modernas.",
+  "main": "index.js",
+  "author": "Robson Fernando",
+  "license": "MIT",
+  "type": "module"
+}
